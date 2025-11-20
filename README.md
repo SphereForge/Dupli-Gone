@@ -1,7 +1,7 @@
 # Dupli-Gone
 Official page for the Dupli-Gone Android app. Download the latest version and view the privacy policy.  
 
-<img width="512" height="512" alt="Dupli-Gone 512x512" src="https://github.com/user-attachments/assets/a00e7554-19af-46cf-8891-e07c9805e651" />
+<img width="512" height="512" alt="LOGO" src="https://github.com/user-attachments/assets/4134032b-baa4-4fcb-9d4f-86a5c4cb7f5b" />
 
 ---
 
